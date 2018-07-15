@@ -21,7 +21,7 @@ in. Then, from this model, the chatbot program will be able to generate natural 
 
 
 
-## Day 1: Jul 7, 2018
+## Day 1: Jul 16, 2018
 
 ### Roadmap for the Day Ahead
 
