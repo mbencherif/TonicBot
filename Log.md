@@ -26,7 +26,7 @@ in. Then, from this model, the chatbot program will be able to generate natural 
 ### Roadmap for the Day Ahead
 
 - [ ] Review of the litterature regarding the problem of context modelisation
-- [ ] Become familiar with word models in Python (e.g. [GloVe Project](https://nlp.stanford.edu/projects/glove/)
+- [ ] Become familiar with word models in Python (e.g. [GloVe Project](https://nlp.stanford.edu/projects/glove/))
 - [ ] Read Chapter 6 - Deep Learning for Text and Sequences of the book [Deep Learning with Python](http://a.co/9EZKqrI)
 
 ### Today's Progress
