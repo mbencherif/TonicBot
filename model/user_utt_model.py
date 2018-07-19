@@ -1,4 +1,4 @@
-class DialogModel(object):
+class UserUtteranceModel(object):
     '''
     Main interface class for the model. It implements training based on early stopping and testing
     and interactive interfaces.
