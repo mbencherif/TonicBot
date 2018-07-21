@@ -1,2 +1,5 @@
 3rd-party
 */__pycache__
+venv
+.vscode
+.coverage
