@@ -1,5 +1,6 @@
 3rd-party
 */__pycache__
+data
 venv
 .vscode
 .coverage
